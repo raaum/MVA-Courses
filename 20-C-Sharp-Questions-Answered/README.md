@@ -1,7 +1,7 @@
-###MVA Course
-#Twenty C# Questions Answered
+###MVA Course###
+#Twenty C# Questions Answered#
 
-Instructors
+Instructors:
 Gerry O'Brien, Microsoft ​Content Development Manager
 Paul Pardi, Microsoft Senior Content Publishing Manager
 
@@ -95,6 +95,6 @@ Demonstrate using LINQ and using a new object.
 
 Demonstrate using an array and returning min and max.
 
-##Additional Resources
+##Additional Resources##
 
 Take advantage of these resources to deepen your C# skills and knowledge.
