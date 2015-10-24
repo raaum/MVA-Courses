@@ -1,5 +1,5 @@
 ###MVA Course###
-#Twenty C\# Questions Answered#
+#Twenty C\\# Questions Answered#
 
 Instructors:
 Gerry O'Brien, Microsoft ​Content Development Manager
