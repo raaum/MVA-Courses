@@ -6,6 +6,7 @@
 - Paul Pardi, Microsoft Senior Content Publishing Manager
 
 **Description**
+
 *Are you a developer with coding questions? Many new and experienced developers visit Stackoverflow.com to find solutions and to help others resolve their computing questions and issues. This training session focuses on 20 of the top questions surrounding the C\# language, based on number of views and votes on stackoverflow. Watch this session, and get your questions answered.*
 
 **When do you use structs vs classes?**
